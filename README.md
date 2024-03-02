@@ -1,4 +1,4 @@
 # 94
 # Shell Script:
 #!!/bin/bash/
-echo "Hi, Shell Scripting!"
+echo "hello, Shell Scripting!"
